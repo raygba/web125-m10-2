@@ -76,6 +76,7 @@ button {
 .quote {
   max-width: 50ch;
   margin: auto auto;
+  text-wrap: balance;
 }
 
 .author {
